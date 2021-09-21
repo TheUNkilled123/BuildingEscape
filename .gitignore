@@ -12,9 +12,11 @@
 */enc_temp_folder/*
 */Content/StarterContent/
 */Content/FXVarietyPack/
-*/Content/M5VFXVOL2/
+*/Content/*
 */Debug/*
 */Collections/*
+*/BuildingEscapeGame/*
+AssetExport/*
 
 
 # Ignore the same things for plugins
@@ -23,6 +25,7 @@
 */Plugins/**/Intermediate/*
 */Plugins/**/DerivedDataCache/*
 */Plugins/**/Saved/*
+
 
 # Don't ignore icon files in Build
 !*/Build/Linux
